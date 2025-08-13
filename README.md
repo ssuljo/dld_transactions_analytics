@@ -28,6 +28,9 @@ The dataset contains property transaction records including:
 * Project and master development information
 * Number of rooms (where available)
 
+The full list of properties:
+<script src="https://gist.github.com/ssuljo/719768a8bc133324c6d0920664043e3d.js"></script>
+
 ---
 
 ## 📥 Setup Instructions
